@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+echo -e "-d $CUSTOM_URL -w $CUSTOM_TEMPLATE --http 127.0.0.1:5959 $CUSTOM_USER_CONFIG" > $CUSTOM_CONFIG_FILENAME
